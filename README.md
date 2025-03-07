@@ -11,7 +11,7 @@ REST API для реализации LRU Cache с поддержкой TTL.
 2. Убедитесь, что файл .env находится в docker/env/ и содержит необходимые переменные окружения:
 
 ```ini
-CACHE_CAPACITY=100
+CACHE_CAPACITY=
 APP_HOST=0.0.0.0
 APP_PORT=8000
 ```
